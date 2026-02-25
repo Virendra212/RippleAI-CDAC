@@ -25,11 +25,6 @@ The integrated AI assistant helps create, manage, and optimize posts while maint
 
 ---
 
-## Microservices Architecture
-
-![Project Demo](https://raw.githubusercontent.com/shivShakya/RippleAI-CDAC/main/frontend/public/project-demo.jpeg)
-
-
 ### 1. User Service
 * Manages registration, authentication, and secure login for all roles.
 * Stores user profiles, activity history, and preferences.
@@ -65,7 +60,7 @@ The integrated AI assistant helps create, manage, and optimize posts while maint
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/shivShakya/RippleAI-CDAC.git
+    git clone https://github.com/Virendra212/RippleAI-CDAC.git
     ```
 2.  **Infrastructure**
     * Ensure **Kafka** and **Redis** instances are running locally or via Docker.
