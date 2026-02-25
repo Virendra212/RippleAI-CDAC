@@ -16,6 +16,9 @@ public class LikeConsumer {
             log.info("Received Kafka message in Notification Service for likes and comments: {}", message);
 
             //push notifications
+            
+
+
         } catch (Exception e) {
             log.error("Error processing Kafka message in Notification Service: {}", message, e);
         }

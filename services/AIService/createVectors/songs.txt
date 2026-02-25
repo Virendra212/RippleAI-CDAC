@@ -1,0 +1,81 @@
+title: Chand Ka Sona
+link - http://localhost:8000/songs/chandkaSona.mp3
+mood: soft, warm, dreamy, affectionate
+tone: romantic, gentle, calm
+themes: admiration, beauty, emotional intimacy, positivity, gratitude, peaceful moments
+best_for: community bonding, kindness, harmony, gratitude posts, peaceful social content
+avoid_for: aggressive themes, dramatic humor, high-energy youth content
+description: A soft melodic romantic track with warm and dreamy emotions. Expresses affection, admiration, beauty, and calm emotional intimacy. Best for heartwarming social-welfare content showcasing care, kindness, or peaceful community moments.
+
+
+
+title: Munda Khojli
+link - http://localhost:8000/songs/mundaKhojli.mp3
+mood: fun, energetic, playful
+tone: humorous, mischievous, lighthearted
+themes: humor, youth energy, mischief, entertainment
+best_for: fun content, youth reels, trending memes, light comedy
+avoid_for: serious social messages, women safety, civic messages
+description: An upbeat Bihari fun song with playful, humorous, and high-energy vibes. Works best for youth-centric, funny, or trending content, not for serious social-welfare themes.
+
+
+title: Phla tu duja tu
+link - http://localhost:8000/songs/phlatodujato.mp3
+mood: strong, intense, heartfelt
+tone: proud, emotional, dramatic
+themes: loyalty, pride, strength, relationships, identity
+best_for: motivational content, cultural pride, community identity, emotional storytelling
+avoid_for: soft social-welfare themes, empathy-based messages
+description: A vibrant Bollywood-style track with emotional intensity, pride, and strength. Contains themes of loyalty and heartfelt expression. Best for motivational or identity-driven content, not suitable for delicate social topics.
+
+
+title: Pretty Little Baby
+link - http://localhost:8000/songs/preetylittlebaby.mp3
+mood: flirty, upbeat, stylish, youthful
+tone: modern, groovy, energetic
+themes: fashion, style, youth vibes, celebration, dance
+best_for: lifestyle content, parties, celebrations, trends, fashion videos
+avoid_for: women safety, cleanliness, civic responsibility, serious messages
+description: A modern pop track with flirty, upbeat energy and stylish vibes. Perfect for lifestyle or celebratory content but unsuitable for social-welfare or sensitive topics.
+
+
+
+title: Saiyaara
+link - http://localhost:8000/songs/saiyaara.mp3
+mood: emotional, soulful, calm, longing
+tone: melancholic, heartfelt, reflective
+themes: love, vulnerability, pain, healing, emotional struggle
+best_for: emotional storytelling, empathy-focused posts, human struggles, recovery
+avoid_for: fun content, high-energy comedy, motivation-heavy reels
+description: A slow soulful emotional track expressing longing, love, and vulnerability. Works extremely well for deeply emotional or supportive social-welfare content.
+
+
+title: Thik Ne
+link - http://localhost:8000/songs/thikna.mp3
+mood: swaggy, energetic, bold
+tone: confident, upbeat, attitude-driven
+themes: confidence, swag, youth energy
+best_for: youth style content, funny social memes, swagger reels, bold attitude photos ,
+avoid_for: social-welfare themes, sensitive messages, emotional posts
+description: An energetic swag-filled track with bold youthful confidence. Ideal for stylish, attitude-based content, but not suitable emotional messaging.
+
+
+title: Tusi Jitthe Bhi
+link - http://localhost:8000/songs/tusi-jitthe-bhi.mp3
+mood: warm, uplifting, positive
+tone: affectionate, peaceful, encouraging
+themes: unity, support, kindness, belonging, hope, protection
+best_for: community safety, women safety, inspirational acts, unity, kindness, emotional-funny moments
+avoid_for: none unless high-energy or aggressive content
+description: A warm Punjabi emotional track that expresses support, belonging, and positivity. Strong match for social-welfare, kindness, community strength, women safety, and inspirational visuals.
+
+
+
+title: Yaarka Name Chale
+link - http://localhost:8000/songs/yaarkanamechale.mp3
+mood: swaggy, energetic, high-power
+tone: bold, lively, attitude-driven
+themes: friendship, loyalty, group unity, youth swagger
+best_for: friendship content, youth culture, vibrant community bonding
+avoid_for: women safety, cleanliness, emotional vulnerability posts
+description: A high-energy Punjabi track with strong beats and youthful attitude. Fits friendship and unity content but not sensitive social themes.
